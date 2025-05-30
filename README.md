@@ -4,6 +4,9 @@ DOMINGO, CLAIRE ANNE M.
 
 
 
+
+
+
 ATTENDANCE SYSTEM
 
 The Attendance System is a web-based SaaS (Software as a Service) application developed using the Laravel . It is designed to streamline the management of student attendance and academic records, providing teachers with a simple, efficient, and secure way to handle essential classroom data.
